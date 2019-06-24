@@ -18,9 +18,11 @@ bind b:alt;cmd focus 'Google Chrome'
 bind s:alt;cmd focus 'Slack'
 bind m:alt;cmd focus 'Thunderbird'
 bind e:alt;cmd focus 'Evernote'
-bind w:alt;cmd focus 'Mocrosoft Word'
-bind t:alt;cmd focus 'iTerm'
+bind w:alt;cmd focus 'Microsoft Word'
+bind t:alt;cmd focus 'iTerm2'
 bind i:alt;cmd focus 'IntelliJ IDEA'
+bind r:alt;cmd focus 'Sublime Text'
+bind p:alt;cmd focus 'PyCharm'
 
 # The triple keys
 alias triple ctrl;alt;cmd
